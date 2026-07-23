@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I'm Abhinav Singh<br><br>I'm a Computer Science student with a strong interest in software development, Data Structures & Algorithms, and full-stack web development. I enjoy understanding how things work under the hood and building projects that help me apply what I learn.<br><br>🚀 What I'm Currently Working On<br><br>- Solving LeetCode problems to strengthen my DSA skills in C++.<br>- Learning React, Node.js, Express, and MySQL to build full-stack applications.<br>- Exploring SQL and database design.<br>- Building projects to improve my problem-solving and development skills.<br><br>🛠️ Tech Stack<br><br>- Languages: C++, C, Java, Python, JavaScript, SQL<br>- Frontend: React, HTML, CSS, Bootstrap<br>- Backend: Node.js, Express, Flask<br>- Database: MySQL<br>- Tools: Git, GitHub, VS Code<br><br>🎯 Goals<br><br>- Become a proficient software engineer with strong problem-solving skills.<br>- Build impactful real-world projects.<br>- Contribute to open-source projects.<br>- Continuously learn new technologies and best practices.<br><br>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
-<!--
-**abhisingh-14/abhisingh-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abhisingh-14&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abhisingh-14&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhisingh-14&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=abhisingh-14&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
