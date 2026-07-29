@@ -1,15 +1,62 @@
-# 💫 About Me:
-👋 Hi, I'm Abhinav Singh<br><br>I'm a Computer Science student with a strong interest in software development, Data Structures & Algorithms, and full-stack web development. I enjoy understanding how things work under the hood and building projects that help me apply what I learn.<br><br>🚀 What I'm Currently Working On<br><br>- Solving LeetCode problems to strengthen my DSA skills in C++.<br>- Learning React, Node.js, Express, and MySQL to build full-stack applications.<br>- Exploring SQL and database design.<br>- Building projects to improve my problem-solving and development skills.<br><br>🛠️ Tech Stack<br><br>- Languages: C++, C, Java, Python, JavaScript, SQL<br>- Frontend: React, HTML, CSS, Bootstrap<br>- Backend: Node.js, Express, Flask<br>- Database: MySQL<br>- Tools: Git, GitHub, VS Code<br><br>🎯 Goals<br><br>- Become a proficient software engineer with strong problem-solving skills.<br>- Build impactful real-world projects.<br>- Contribute to open-source projects.<br>- Continuously learn new technologies and best practices.<br><br>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<h1 align="center">Hi 👋, I'm Abhinav Singh Patel</h1>
+<h3 align="center">Aspiring Full Stack Developer | AI/ML Enthusiast | Based in Lucknow, UP, India</h3>
 
-
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abhisingh-14&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=abhisingh-14&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhisingh-14&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhisingh-14&label=Profile%20views&color=0e75b6&style=flat" alt="abhisingh-14" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=abhisingh-14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+- 🎓 Currently a student, working towards becoming a **Full Stack Developer**
+- 🤖 Also exploring **AI/ML**
+- 🔭 Currently learning and practicing **DSA** and **Backend Development**
+- 🌱 Deep-diving into **Express.js** right now
+- 📍 Based in Lucknow, Uttar Pradesh, India
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
+
+**Backend** *(currently learning)*
+<p align="left">
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+**Database**
+<p align="left">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhisingh-14&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisingh-14&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisingh-14&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- **[Internship Management Portal](https://github.com/abhisingh-14/internship-management-portal)** — A web portal built to manage and streamline internship-related processes.
+- **[Cat vs Dog Classifier](https://github.com/abhisingh-14/cat_dog_classifier)** — An AI/ML image classification project to distinguish between cats and dogs.
+- **[E-Commerce Project](https://github.com/abhisingh-14/ecommerce-project)** — A full stack e-commerce application project.
+
+---
+
+<p align="center"><i>Thanks for visiting my profile! ⭐ a repo if you find it useful.</i></p>
