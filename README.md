@@ -41,12 +41,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhisingh-14&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisingh-14&layout=compact&theme=radical" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=abhisingh-14&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhisingh-14&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhisingh-14&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=abhisingh-14&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
