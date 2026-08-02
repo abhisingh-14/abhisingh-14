@@ -46,7 +46,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=abhisingh-14&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=abhisingh-14&theme=radical&_=1" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rWpS8CSXUC?theme=dark&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
