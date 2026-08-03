@@ -61,9 +61,92 @@
 
 ### 📌 Featured Projects
 
-- **[Internship Management Portal](https://github.com/abhisingh-14/internship-management-portal)** — A web portal built to manage and streamline internship-related processes.
-- **[Cat vs Dog Classifier](https://github.com/abhisingh-14/cat_dog_classifier)** — An AI/ML image classification project to distinguish between cats and dogs.
-- **[E-Commerce Project](https://github.com/abhisingh-14/ecommerce-project)** — A full stack e-commerce application project.
+#### 🌐 Full Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 [Internship Management Portal](https://github.com/abhisingh-14/internship-management-portal)**
+*Portal to manage internship processes*
+
+A web portal built to manage and streamline internship-related processes.
+
+**Stack:** React · Express · MySQL
+
+</td>
+<td width="50%" valign="top">
+
+**🛒 [E-Commerce Project](https://github.com/abhisingh-14/ecommerce-project)**
+*Full stack e-commerce application*
+
+An e-commerce app with a self-built frontend; backend built with AI assistance.
+
+**Stack:** React · Express · MySQL
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**✅ [TodoApp](https://github.com/abhisingh-14/TodoApp)**
+*Task management app*
+
+A todo application with full CRUD functionality across frontend and backend.
+
+**Stack:** React · Express · MySQL
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+#### 🎨 Frontend
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**💼 [My Portfolio](https://github.com/abhisingh-14/My_Portfolio)**
+*Personal portfolio website*
+
+My personal portfolio site showcasing my projects and skills.
+
+**Stack:** React · Vite · Bootstrap
+
+</td>
+<td width="50%" valign="top">
+
+**💬 [ChatBot](https://github.com/abhisingh-14/chatbot-project)**
+*Simple React chatbot*
+
+A simple chatbot interface built with React and Vite.
+
+**Stack:** React · Vite
+
+</td>
+</tr>
+</table>
+
+#### 🤖 AI/ML
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🐱 [Cat vs Dog Classifier](https://github.com/abhisingh-14/cat_dog_classifier)**
+*Image classification model*
+
+An AI/ML image classification project to distinguish between cats and dogs.
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ---
 
