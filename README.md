@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh Patel</h1>
 <h3 align="center">Aspiring Full Stack Developer | AI/ML Enthusiast | Based in Lucknow, UP, India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhisingh-14&label=Profile%20views&color=0e75b6&style=flat" alt="abhisingh-14" />
-</p>
-
 ---
 
 ### 🚀 About Me
