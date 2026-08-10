@@ -61,7 +61,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <a href="https://github.com/abhisingh-14" target="_blank">
+    <img src="./profile/streak.svg" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
@@ -69,7 +71,9 @@
 ### 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/rWpS8CSXUC?theme=dark&ext=contest" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/rWpS8CSXUC/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/rWpS8CSXUC?theme=dark&ext=contest" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
